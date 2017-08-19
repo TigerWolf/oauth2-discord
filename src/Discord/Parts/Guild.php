@@ -24,5 +24,6 @@ class Guild extends Part
         'icon',
         'owner',
         'permissions',
+        'roles',
     ];
 }
